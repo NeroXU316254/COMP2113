@@ -1,7 +1,7 @@
 # COMP2113 Project of Group 12
 ## --Game name
-##### > Nero XU Shuoyuan 
-##### > Channel GUO Qianni
+> ##### Nero XU Shuoyuan 
+> ##### Channel GUO Qianni
 
 
 ### **Outline**
