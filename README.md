@@ -8,7 +8,9 @@
 **1. Game Introduction**
  - Background
  - Game Rule
+
 **2. Coding Requirements**
  - Algorithms to Implement
  - Functions may Used 
+
 **3. Group Introduction**
