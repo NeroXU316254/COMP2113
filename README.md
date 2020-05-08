@@ -1,7 +1,6 @@
 # COMP2113 Project of Group 12
 ## —— An April Day in Hong Kong
-##### Nero XU Shuoyuan 
-##### Chaney GUO Qianni
+
 
 
 ## **Outline**
@@ -105,13 +104,4 @@ So you win this game if and only if you've completed all the assignments and go 
     
        **EventFlag** and **ItemFlag** : read and write across files.
   
-## Group Introduction
 
- - XU Shuoyuan
- 
-   A sophomore majoring in QFin and CS, working on **Game Flow** , **Events** , **Items** and other basic sections.
- 
- - Guo Qianni
-  
-   A sophomore majoring in QFin with a mimor in CS and Math, working on **Events content** , **Save & Load** and other basic sections.
- 
